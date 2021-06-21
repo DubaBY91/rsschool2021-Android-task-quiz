@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="tool_bar" formatted="true">Question %1$s</string>
+    <string name="change_to_submit">Submit</string>
+    <string name="share">Share result</string>
+    <string name="restart">Restart</string>
+    <string name="close">Close</string>
 </resources>
