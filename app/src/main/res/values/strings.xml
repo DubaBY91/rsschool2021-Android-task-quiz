@@ -5,4 +5,5 @@
     <string name="share">Share result</string>
     <string name="restart">Restart</string>
     <string name="close">Close</string>
+    <string name="your_result_label">Your result</string>
 </resources>
